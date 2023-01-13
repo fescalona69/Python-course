@@ -1,3 +1,9 @@
-print("Hola, esto es python")
+print("Hola soy felipe")
 
-print("Hola soy nicolas y tengo 12 años")
+name="Camille"
+
+print(f"hola soy {name} ")
+
+print(2+3)
+
+
